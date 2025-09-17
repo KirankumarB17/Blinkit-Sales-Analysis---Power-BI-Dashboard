@@ -19,15 +19,12 @@ This Power BI project provides an in-depth analysis of Blinkit’s sales perform
 1. **Sales by Fat Content**  
    - Objective: Assess the impact of fat content on overall sales and related KPIs  
    - Visualization: **Donut Chart**  
-
 2. **Sales by Item Type**  
    - Objective: Compare revenue contribution across different product categories  
    - Visualization: **Bar Chart**  
-
 3. **Fat Content by Outlet**  
    - Objective: Analyze outlet-level sales segmented by fat content  
    - Visualization: **Stacked Column Chart**  
-
 4. **Sales by Outlet Establishment**  
    - Objective: Evaluate how the age/year of outlets influences sales performance  
    - Visualization: **Line Chart**  
