@@ -61,6 +61,8 @@ The dashboard provides a **360° view of business performance**:
 - **Outlet Analysis** → Sales trends segmented by outlet size, type, and age  
 - **Customer Insights** → Ratings distribution highlighting satisfaction levels  
 - **Geographic View** → Funnel chart showing city-tier level contribution
+
+![Final Dashboard]([https://github.com/user-attachments/assets/b8467713-43e1-4cc1-a29c-f4542aa62177](https://github.com/KirankumarB17/Blinkit-Sales-Analysis---Power-BI-Dashboard/blob/main/Dashboard.png))
   
 ## 💡 Key Insights  
 
