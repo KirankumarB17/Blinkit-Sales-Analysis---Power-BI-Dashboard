@@ -14,3 +14,32 @@ This Power BI project provides an in-depth analysis of Blinkit’s sales perform
 - **Average Sales** → Average revenue per transaction  
 - **Number of Items** → Total quantity of items sold  
 - **Average Rating** → Mean customer satisfaction score  
+## 🔹 Business & Visualization Requirements  
+
+1. **Sales by Fat Content**  
+   - Objective: Assess the impact of fat content on overall sales and related KPIs  
+   - Visualization: **Donut Chart**  
+
+2. **Sales by Item Type**  
+   - Objective: Compare revenue contribution across different product categories  
+   - Visualization: **Bar Chart**  
+
+3. **Fat Content by Outlet**  
+   - Objective: Analyze outlet-level sales segmented by fat content  
+   - Visualization: **Stacked Column Chart**  
+
+4. **Sales by Outlet Establishment**  
+   - Objective: Evaluate how the age/year of outlets influences sales performance  
+   - Visualization: **Line Chart**  
+
+5. **Sales by Outlet Size**  
+   - Objective: Identify the correlation between outlet size (Small/Medium/Large) and sales  
+   - Visualization: **Donut / Pie Chart**  
+
+6. **Sales by Outlet Location**  
+   - Objective: Examine geographic sales distribution across Tier 1, Tier 2, and Tier 3 locations  
+   - Visualization: **Funnel Chart**  
+
+7. **KPIs by Outlet Type**  
+   - Objective: Provide a consolidated view of all KPIs (Total Sales, Average Sales, Number of Items, Average Rating) across outlet types  
+   - Visualization: **Matrix Table** 
