@@ -18,13 +18,16 @@ This Power BI project provides an in-depth analysis of Blinkit’s sales perform
 
 1. **Sales by Fat Content**  
    - Objective: Assess the impact of fat content on overall sales and related KPIs  
-   - Visualization: **Donut Chart**  
+   - Visualization: **Donut Chart**
+       
 2. **Sales by Item Type**  
    - Objective: Compare revenue contribution across different product categories  
-   - Visualization: **Bar Chart**  
+   - Visualization: **Bar Chart**
+     
 3. **Fat Content by Outlet**  
    - Objective: Analyze outlet-level sales segmented by fat content  
-   - Visualization: **Stacked Column Chart**  
+   - Visualization: **Stacked Column Chart**
+     
 4. **Sales by Outlet Establishment**  
    - Objective: Evaluate how the age/year of outlets influences sales performance  
    - Visualization: **Line Chart**  
@@ -39,4 +42,13 @@ This Power BI project provides an in-depth analysis of Blinkit’s sales perform
 
 7. **KPIs by Outlet Type**  
    - Objective: Provide a consolidated view of all KPIs (Total Sales, Average Sales, Number of Items, Average Rating) across outlet types  
-   - Visualization: **Matrix Table** 
+   - Visualization: **Matrix Table**
+     
+     ## 🔄 Process  
+
+1. **Requirement Gathering** → Defined business KPIs & visualization needs.  
+2. **Data Cleaning & Transformation** → Used **Power Query** to remove duplicates, fix missing values, and standardize formats.  
+3. **Data Modeling** → Designed a **Star Schema** for efficient analysis (Fact: Sales, Dimensions: Products & Outlets).  
+4. **DAX Calculations** → Built measures for **Total Sales, Avg Sales, Items Sold, and Avg Rating**.  
+5. **Dashboard Development** → Designed interactive, business-focused visuals.  
+6. **Insights & Recommendations** → Validated findings and derived business opportunities.
