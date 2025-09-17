@@ -62,6 +62,7 @@ The dashboard provides a **360° view of business performance**:
 - **Customer Insights** → Ratings distribution highlighting satisfaction levels  
 - **Geographic View** → Funnel chart showing city-tier level contribution
 
+
 ![Screenshot 2025-01-28 211655](https://github.com/KirankumarB17/Blinkit-Sales-Analysis---Power-BI-Dashboard/blob/main/Dashboard.png)
 
   
