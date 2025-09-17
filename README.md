@@ -51,3 +51,12 @@ This Power BI project provides an in-depth analysis of Blinkit’s sales perform
 4. **DAX Calculations** → Built measures for **Total Sales, Avg Sales, Items Sold, and Avg Rating**.  
 5. **Dashboard Development** → Designed interactive, business-focused visuals.  
 6. **Insights & Recommendations** → Validated findings and derived business opportunities.
+
+## 📈 Dashboard Highlights  
+
+The dashboard provides a **360° view of business performance**:  
+- 🔹 **KPI Cards** → Quick snapshot of Total Sales, Avg Sales, Items Sold, and Ratings  
+- 🔹 **Category Analysis** → Top-performing item types driving revenue growth  
+- 🔹 **Outlet Analysis** → Sales trends segmented by outlet size, type, and age  
+- 🔹 **Customer Insights** → Ratings distribution highlighting satisfaction levels  
+- 🔹 **Geographic View** → Funnel chart showing city-tier level contribution  
