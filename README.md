@@ -55,8 +55,16 @@ This Power BI project provides an in-depth analysis of Blinkit’s sales perform
 ## 📈 Dashboard Highlights  
 
 The dashboard provides a **360° view of business performance**:  
-- 🔹 **KPI Cards** → Quick snapshot of Total Sales, Avg Sales, Items Sold, and Ratings  
-- 🔹 **Category Analysis** → Top-performing item types driving revenue growth  
-- 🔹 **Outlet Analysis** → Sales trends segmented by outlet size, type, and age  
-- 🔹 **Customer Insights** → Ratings distribution highlighting satisfaction levels  
-- 🔹 **Geographic View** → Funnel chart showing city-tier level contribution  
+- **KPI Cards** → Quick snapshot of Total Sales, Avg Sales, Items Sold, and Ratings  
+- **Category Analysis** → Top-performing item types driving revenue growth
+- **Outlet Analysis** → Sales trends segmented by outlet size, type, and age  
+- **Customer Insights** → Ratings distribution highlighting satisfaction levels  
+- **Geographic View** → Funnel chart showing city-tier level contribution
+  
+## 💡 Key Insights  
+
+- **Fruits, Snacks, and Beverages** emerged as the **highest-selling categories**.  
+- **Regular-fat products** consistently outperformed low-fat products in sales.  
+- **Medium-sized outlets** generated the **highest revenue contribution**.  
+- **Tier-3 cities** drove the **largest share of sales**, indicating **strong growth potential** in emerging markets.  
+- Outlets established **post-2015** showed **accelerated sales growth**, suggesting newer outlets are more performance-driven.  
