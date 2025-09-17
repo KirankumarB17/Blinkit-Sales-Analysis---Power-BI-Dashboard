@@ -43,8 +43,7 @@ This Power BI project provides an in-depth analysis of Blinkit’s sales perform
 7. **KPIs by Outlet Type**  
    - Objective: Provide a consolidated view of all KPIs (Total Sales, Average Sales, Number of Items, Average Rating) across outlet types  
    - Visualization: **Matrix Table**
-     
-     ## 🔄 Process  
+ ## 🔄 Process  
 
 1. **Requirement Gathering** → Defined business KPIs & visualization needs.  
 2. **Data Cleaning & Transformation** → Used **Power Query** to remove duplicates, fix missing values, and standardize formats.  
